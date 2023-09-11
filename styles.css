@@ -1,2 +1,9 @@
-
 /* Your CSS Code here. */
+.calc{
+	display:grid;
+	grid-template-columns: repeat(4,auto)
+	
+}
+button{
+	
+}
